@@ -1,0 +1,3 @@
+[submodule "goproxy"]
+	path = goproxy
+	url = https://github.com/elazarl/goproxy.git
